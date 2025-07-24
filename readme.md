@@ -12,7 +12,7 @@ PharmaCare is a fully functional, responsive **frontend pharmacy store system** 
 - ⚛️ React (Functional Components + Hooks)
 - 🟦 TypeScript (Type-safe, scalable architecture)
 - 💾 Browser LocalStorage (Data persistence without database)
-- 🧩 CSS/Utility Frameworks (Tailwind CSS / Bootstrap or custom)
+- 🧩 CSS/Utility Frameworks (Tailwind CSS)
 
 ---
 

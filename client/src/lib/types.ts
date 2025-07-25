@@ -5,6 +5,7 @@ export interface Product {
   sku: string;
   price: number;
   stock: number;
+  packSize: number;
   lowStockThreshold: number;
   description?: string;
   manufacturer?: string;
@@ -73,6 +74,7 @@ export interface CartItem {
   price: number;
   quantity: number;
   stock: number;
+  packSize: number;
 }
 
 export interface PharmacySettings {
